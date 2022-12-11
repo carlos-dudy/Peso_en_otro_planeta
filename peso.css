@@ -1,0 +1,20 @@
+.conteiner{
+    background-image: url(./4c254d0f6d0b7bef272fb9ca05f21aca.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    height: 70%;
+    width: 70%;
+    background-color:rgba(255, 255, 255, 0.432) ;
+}
+.title{
+    color:rgb(36, 37, 37);
+}
